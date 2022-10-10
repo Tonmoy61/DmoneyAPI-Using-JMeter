@@ -39,6 +39,6 @@
 <img width="960" alt="Summary Report" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Summary%20Report.png">
 
 
-- Report Summary And Statictis1
+- Report Summary And Statictis
 <img width="960" alt="Statictis Report" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Statictis%20Report.png">
 
