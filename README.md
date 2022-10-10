@@ -40,5 +40,5 @@
 
 
 - Report Summary And Statictis1
-<img width="877" alt="Statictis Report" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Statictis%20Report.png">
+<img width="960" alt="Statictis Report" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Statictis%20Report.png">
 
