@@ -1,5 +1,4 @@
 # DmoneyAPI-Using-JMeter
-#### **Solved:**
 
 - #### [Testing Server API](http://dmoney.professionaltrainingbd.com)
 
@@ -27,7 +26,7 @@
 
 - [Server](https://demoqa.com/BookStore/v1/Books)
 
-- Result_Tree
+- Result Tree
 <img width="960" alt="Result Tree" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Result%20Tree.png">
 
 
@@ -35,11 +34,11 @@
 
 <img width="960" alt="Thread Group" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Thread%20Group.png">
 
-#### **SummaryReport**
+#### **Summary Report**
 
 <img width="960" alt="Summary Report" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Summary%20Report.png">
 
 
-- Report_Summary_and_Statictis1
+- Report Summary And Statictis1
 <img width="877" alt="Statictis Report" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Statictis%20Report.png">
 
