@@ -4,7 +4,7 @@
 
 #### :six_pointed_star: How to run this project
 
-#### Clone this project
+- #### Clone this project
 
 - #### Move file into **\apache-jmeter-5.5\bin** this path
 
@@ -22,7 +22,7 @@
 
 - #### Delete user
 
-#### API Test Strategy
+- #### API Test Strategy
 
 ### :link: [Server](https://demoqa.com/BookStore/v1/Books)
 
