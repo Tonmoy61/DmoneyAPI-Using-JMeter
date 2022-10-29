@@ -1,6 +1,6 @@
 # DmoneyAPI-Using-JMeter
 
-- #### [Testing Server API] (http://dmoney.professionaltrainingbd.com)
+- #### [Testing Server API](http://dmoney.professionaltrainingbd.com)
 
 #### How to run this project
 
@@ -24,7 +24,7 @@
 
 #### API Test Strategy
 
-- [Server] (https://demoqa.com/BookStore/v1/Books)
+- [Server](https://demoqa.com/BookStore/v1/Books)
 
 - Result Tree
 <img width="960" alt="Result Tree" src="https://github.com/Tonmoy61/DmoneyAPI-Using-JMeter/blob/main/Images/Result%20Tree.png">
